@@ -1,3 +1,5 @@
 belajar dasar git hub
 memulai untuk belajar web
 belajar html
+memahami dasar html
+bantuan tools vsc
